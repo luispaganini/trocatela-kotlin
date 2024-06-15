@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrocaTelas</string>
+    <string name="lancamento">Lançamento</string>
+    <string name="codigo">Código</string>
+    <string name="qtd">Qtd</string>
+    <string name="valor">Valor</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="listar">Listar</string>
+    <string name="enviar">Enviar</string>
+</resources>
